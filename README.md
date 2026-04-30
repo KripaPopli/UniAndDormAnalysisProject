@@ -17,7 +17,7 @@ The dataset used in this project is derived from a university dorm allotment lis
 - Implementing queries to extract necessary information, such as the number of students from a particular course or hostel. 
 - Extracting the name and number of over-capacity and under-capacity hostels. 
 - Further anonymizing of the hostels to hostel IDs using joins in case the hostel names need to be hidden from the viewer. 
--Exporting of the dataset to Excel. 
+- Exporting of the dataset to Excel. 
 
 ### Excel: 
 - Applying necessary functions(such as IF, SUMIF, XLOOKUP), as per requirement, to make the dataset more structured, dynamic and easy to maintain. 
