@@ -31,7 +31,7 @@ The dataset used in this project is derived from a university dorm allotment lis
 - Further analysis to develop an understanding of the university, such as domain popularity and student growth. 
 - Adding necessary slicers which can be useful for extracting information, observing interesting patterns and generating insights. 
 
-### Key insights: 
+## Key insights: 
 - There are more over-capacity hostels(16) than there are under-capacity hostels(15). 
 - 'Science and technology' is the most popular domain in the university and covers almost half(47.73%) of the total domains in the university. 
 - There has been a positive trend in the 'Science and technology' domain throughout the last three years. 
